@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For SwitchMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SwitchMatrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+checkButtons	KEYWORD2
+lastButtonHit	KEYWORD2
+checkButtonRelease	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NoButton	LITERAL1
+ButtonA		LITERAL1
+ButtonB		LITERAL1
+ButtonC		LITERAL1
+ButtonD		LITERAL1
+ButtonE		LITERAL1
+ButtonF		LITERAL1
